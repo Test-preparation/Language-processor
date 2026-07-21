@@ -2,6 +2,11 @@
 
 「言語処理系」の試験対策として、各自が作成したサイトや資料を共有するためのリポジトリです。
 
+> この組織は **1授業 = 1リポジトリ** で運用しています。組織全体の方針・他授業のリポジトリ一覧は
+> [Test-preparation プロフィール](https://github.com/Test-preparation) を参照してください。
+> このREADMEは共通テンプレ [`CONTRIBUTING-TEMPLATE.md`](https://github.com/Test-preparation/.github/blob/main/CONTRIBUTING-TEMPLATE.md)
+> から生成しています（授業名＝言語処理系 / リポジトリ名＝Language-processor）。
+
 ## 📁 ルール: 1人1フォルダ
 
 **自分専用のサブフォルダを作り、その中に一式を置いてください。**
